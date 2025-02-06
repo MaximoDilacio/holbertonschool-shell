@@ -1,0 +1,1 @@
+Este script imprime la ruta absoluta
