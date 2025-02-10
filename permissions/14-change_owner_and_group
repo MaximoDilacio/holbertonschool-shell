@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -R vincent:office ./
+chown -R vincent:staff ./
